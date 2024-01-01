@@ -1,8 +1,7 @@
 
 # Friday Voice Assistant  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-![Friday Logo](https://example.com/friday_logo.png)
+<img src="https://image.lexica.art/full_webp/535f8a6a-f1c4-42a6-af4d-2929e41897a1" alt="Friday Logo" width="100%" height="450" />
 
 ## Table of Contents
 - [Overview](#overview)

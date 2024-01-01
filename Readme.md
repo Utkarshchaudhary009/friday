@@ -16,7 +16,7 @@
 - [License](#license)
 
 ## Overview
-Friday is your personal voice assistant, drawing inspiration from J.A.R.V.I.S in Iron Man. It's here to assist you in various tasks and streamline your daily activities, just like Tony Stark's trusted companion.
+Friday is your personal voice assistant, drawing inspiration from `J.A.R.V.I.S in Iron Man`. It's here to assist you in various tasks and streamline your daily activities, just like Tony Stark's trusted companion.
 
 ## Why Friday?
 - **Efficiency:** Simplify task management, streamline information retrieval, and interact seamlessly with your applications.
@@ -32,7 +32,8 @@ Friday is your personal voice assistant, drawing inspiration from J.A.R.V.I.S in
 ## Getting Started
 1. **Clone the repository.**
 2. **Set up Dependencies:** Use `requirements.txt` to install necessary packages.
-3. **Run Friday:** Execute `main.py` to launch your Friday voice assistant.
+3. **Personalise User details and Assistant detail :** open `User_details.json` and modify it then open `Assistant_detail.json` and modify it
+4. **Run Friday:** Execute `main.py` to launch your Friday voice assistant.
 
 ## Code Examples
 
@@ -50,17 +51,17 @@ def open_application(app_name):
 ```
 
 ## Roadmap
-### Version 1.0 (Upcoming Release)
-- Implement voice recognition for additional languages.
+### Version 2.0 (Upcoming Release)
+- Getting function my a trained `Ml model`.
 - Enhance support for more applications and file types.
 - Improve expert assistance for development tasks.
 - Introduce customizable themes and personalities.
 
 ### Future Enhancements
-- Integration with smart home devices.
-- Advanced natural language processing capabilities.
+- Integration with `smart home devices`.
+- Advanced `natural language processing` capabilities.
 - Extensive documentation and tutorials.
-
+- `Ai` integrating 
 ## Contributing
 Contributions and feedback are encouraged! Feel free to open issues or pull requests to enhance Friday's capabilities.
 
